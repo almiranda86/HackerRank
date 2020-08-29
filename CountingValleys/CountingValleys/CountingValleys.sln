@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingValleys", "CountingValleys\CountingValleys.csproj", "{7DE24C1E-C35D-4391-B409-2D3723A0FCE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingValleysTest", "CountingValleysTest\CountingValleysTest.csproj", "{D9CDB6E4-0A73-4EEB-BB82-8BE4868BFDCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DE24C1E-C35D-4391-B409-2D3723A0FCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE24C1E-C35D-4391-B409-2D3723A0FCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE24C1E-C35D-4391-B409-2D3723A0FCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE24C1E-C35D-4391-B409-2D3723A0FCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9CDB6E4-0A73-4EEB-BB82-8BE4868BFDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9CDB6E4-0A73-4EEB-BB82-8BE4868BFDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9CDB6E4-0A73-4EEB-BB82-8BE4868BFDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9CDB6E4-0A73-4EEB-BB82-8BE4868BFDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4939A9D2-ED8F-41E9-B7A3-52E922FC8FB9}
+	EndGlobalSection
+EndGlobal
