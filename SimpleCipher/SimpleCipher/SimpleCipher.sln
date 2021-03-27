@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCipher", "SimpleCipher\SimpleCipher.csproj", "{D91983AC-6499-4B7D-917B-DE7FEB4E6AB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{67956132-C1CB-48E4-BE5A-C8A1D147B37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D91983AC-6499-4B7D-917B-DE7FEB4E6AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91983AC-6499-4B7D-917B-DE7FEB4E6AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91983AC-6499-4B7D-917B-DE7FEB4E6AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91983AC-6499-4B7D-917B-DE7FEB4E6AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67956132-C1CB-48E4-BE5A-C8A1D147B37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67956132-C1CB-48E4-BE5A-C8A1D147B37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67956132-C1CB-48E4-BE5A-C8A1D147B37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67956132-C1CB-48E4-BE5A-C8A1D147B37E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB531BD4-3FFC-4399-9F52-B166EEFF2499}
+	EndGlobalSection
+EndGlobal
