@@ -55,6 +55,20 @@ namespace MinimumSwaps2
                 else i++;
             }
 
+
+            //while (!IsSorted(arr))
+            //{
+            //    for (int i = 0; i < arr.Length; i++)
+            //    {
+            //        if (arr[i] != arr[i + 1])
+            //        {
+            //            var tempNum = arr[i];
+            //            arr[i] = arr[i + 1];
+            //            arr[i + 1] = tempNum;
+            //            swaps++;
+            //        }
+            //    }
+            //}
             return swaps;
         }
 
